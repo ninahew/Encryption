@@ -19,7 +19,7 @@ In the case of encryption mode, a message in human language is entered, and an e
 Conversely, in decryption mode, an encrypted message is entered, and the corresponding message is returned in human language. 
 
 ## Workflow
-Initially, I planned my project using a trello board. This allowed me to break the problem down into much more manageable pieces. Following that, I researched the game, and in particualr the process of Base64 encoding, which is the process used in this tool. Once I had a good understanding of that, I drew a flowchart to help me visualize the necssary steps, and then I began to code. 
+Initially, I planned my project using a trello board. This allowed me to break the problem down into much more manageable pieces. Following that, I researched the game, and in particular the process of Base64 encoding, which is the process used in this tool. Once I had a good understanding of that, I drew a flowchart to help me visualize the necssary steps, and then I began to code. 
 This was the longest step, and once it was done I prepared the presentation of the final product. 
 
 ## Organization
@@ -31,5 +31,5 @@ My repository consists of 3 parts; a gitignore file, a README file, and my code.
 ## Links
 
 [Repository](https://github.com/ninahew/Encryption)  
-[Slides](https://slides.com/)  
+[Slides](https://docs.google.com/presentation/d/1l0m87pD-l0ePdPNjMeGNke4r8P_NmekFinB8jx90Exc/edit?usp=sharing)  
 [Trello](https://trello.com/b/qrfxcf1H/ninas-project)  
